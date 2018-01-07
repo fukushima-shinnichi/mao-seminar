@@ -64,4 +64,15 @@ teaaae
 this site descripte my skill.  
 this site don't use fram work.  
 this site is free so you can download to free.  
+## Component file
+```
+Component file/
+├─ README.md
+├─ fonts                                                     #folder of web fonts.(saving in this folder at Font Awesome.)
+├─ img                                                       # folder of images. 
+├─ Website_of_Cafe_and_Miscellaneous_style.html              # Top page.（my coding）
+└─ css/
+    └─ Website_of_Cafe_and_Miscellaneous_style               # folder of css(saving in this folder at css of Font Awesome.)
+           └─ Website_of_Cafe_and_Miscellaneous_style.css    # file of top page css.（my coding）
+```
 
