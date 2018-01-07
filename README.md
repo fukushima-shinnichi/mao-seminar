@@ -34,11 +34,14 @@ teaaae
 * HTML5,CSS3を使用し作成したカフェ・雑貨風のwebサイトになります
 * レスポンシブル非対応
 * ポートフォリオ用サイト
-### 説明
-
+## 説明
+本サイトはポートフォリオ用の自分の技術を紹介するためのサイトになります。  
+フレームワーク無でカフェ・雑貨風のサイトを作成してみました。  
+フリーですので必要な方はご自由に使用願います。  
 
 
 ***
+
 # Website of Cafe and Miscellaneous style
 ## Overview
 * this web site concept is shop of cafe or miscellaneous style.
