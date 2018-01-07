@@ -38,9 +38,21 @@ teaaae
 本サイトはポートフォリオ用の自分の技術を紹介するためのサイトになります。  
 フレームワーク無でカフェ・雑貨風のサイトを作成してみました。  
 フリーですので必要な方はご自由に使用願います。  
+## 構成
+```
+seminar/
+├─ index.html        # トップページ
+├─ member.html       # メンバー紹介ページ
+├─ work.html         # ゼミ活動紹介ページ
+├─ README.md
+├─ images
+└─ css/
+    └─ common.css
+```
 
 
 ***
+
 
 # Website of Cafe and Miscellaneous style
 ## Overview
@@ -48,3 +60,8 @@ teaaae
 * use HTML5,CSS3.
 * not correspondence of responsive design.
 * my web design skill is this web site.
+## Description
+this site descripte my skill.  
+this site don't use fram work.  
+this site is free so you can download to free.  
+
