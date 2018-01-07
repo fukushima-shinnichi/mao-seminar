@@ -53,10 +53,10 @@ teaaae
 1、全てのファイルをフォークし、ローカルにクローンを作成。  
 2、ローカルに保存したHTMLファイルをウェブブラウザで開く。  
 ## デモサイトURL（ポートフォリオURL）
-[testAAA](https://github.com/elmas3 "BBBBBBB")
+[testAAA](https://github.com/elmas3 "ポートフォリオURL")
 
 ***
-
+***
 
 # Website of Cafe and Miscellaneous style
 ## Overview
@@ -79,4 +79,8 @@ Component file/
     └─ Website_of_Cafe_and_Miscellaneous_style               # folder of css(saving in this folder at css of Font Awesome.)
            └─ Website_of_Cafe_and_Miscellaneous_style.css    # file of top page css.（my coding）
 ```
-
+## Install
+1、all files do fork and this all files do clone in local.  
+2、this local files open to web browser.  
+## デモサイトURL（ポートフォリオURL）
+[testAAA](https://github.com/elmas3 "ポートフォリオURL")
