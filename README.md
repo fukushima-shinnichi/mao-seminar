@@ -29,5 +29,19 @@ seminar/
 teaaae
 ```
 
-# タイトル　/　TITLE
-カフェ・雑貨風　サイト　/　Website of Cafe and Miscellaneous style
+# カフェ・雑貨風　サイト
+## 概要
+* HTML5,CSS3を使用し作成したカフェ・雑貨風のwebサイトになります
+* レスポンシブル非対応
+* ポートフォリオ用サイト
+### 説明
+
+
+
+***
+# Website of Cafe and Miscellaneous style
+## Overview
+* this web site concept is shop of cafe or miscellaneous style.
+* use HTML5,CSS3.
+* not correspondence of responsive design.
+* my web design skill is this web site.
