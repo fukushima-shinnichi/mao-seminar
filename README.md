@@ -49,7 +49,11 @@ teaaae
     └─ Website_of_Cafe_and_Miscellaneous_style               # CSS保存フォルダー(Font Awesomeのcss保存)
            └─ Website_of_Cafe_and_Miscellaneous_style.css    # CSSファイル（自身でコーディング）
 ```
-
+## インストール方法
+1、全てのファイルをフォークし、ローカルにクローンを作成。  
+2、ローカルに保存したHTMLファイルをウェブブラウザで開く。  
+## デモサイトURL（ポートフォリオURL）
+[testAAA](https://github.com/elmas3 "リンクのタイトル")
 
 ***
 
