@@ -53,7 +53,7 @@ teaaae
 1、全てのファイルをフォークし、ローカルにクローンを作成。  
 2、ローカルに保存したHTMLファイルをウェブブラウザで開く。  
 ## デモサイトURL（ポートフォリオURL）
-[testAAA](https://github.com/elmas3 "リンクのタイトル")
+[testAAA](https://github.com/elmas3 "BBBBBBB")
 
 ***
 
