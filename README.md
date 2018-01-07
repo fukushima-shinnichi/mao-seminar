@@ -80,7 +80,7 @@ Component file/
            └─ Website_of_Cafe_and_Miscellaneous_style.css    # file of top page css.（my coding）
 ```
 ## Install
-1、all files do fork and this all files do clone in local.  
+1、all files do fork and this all files do clone in local.  
 2、this local files open to web browser.  
-## デモサイトURL（ポートフォリオURL）
-[testAAA](https://github.com/elmas3 "ポートフォリオURL")
+## URL of Demo site(URL of my portfolio site)
+[testAAA](https://github.com/elmas3 "URL of my portfolio site")
