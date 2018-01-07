@@ -20,3 +20,14 @@ seminar/
 
 # 備考
 本リポジトリは「わかばちゃんと学ぶGit使い方入門」の練習用として使用するリポジトリです。
+
+
+### aaa
+***
+*aaaaaaa*
+```
+teaaae
+```
+
+# タイトル　/　TITLE
+カフェ・雑貨風　サイト　/　Website of Cafe and Miscellaneous style
