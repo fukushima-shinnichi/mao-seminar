@@ -38,16 +38,16 @@ teaaae
 本サイトはポートフォリオ用の自分の技術を紹介するためのサイトになります。  
 フレームワーク無でカフェ・雑貨風のサイトを作成してみました。  
 フリーですので必要な方はご自由に使用願います。  
-## 構成
+## ファイルの構成
 ```
-seminar/
-├─ index.html        # トップページ
-├─ member.html       # メンバー紹介ページ
-├─ work.html         # ゼミ活動紹介ページ
+ファイルの構成/
 ├─ README.md
-├─ images
+├─ fonts                                                     # webフォント(Font Awesome)保存フォルダー
+├─ img                                                       # 画像保存フォルダー
+├─ Website_of_Cafe_and_Miscellaneous_style.html              # トップページ（自身でコーディング）
 └─ css/
-    └─ common.css
+    └─ Website_of_Cafe_and_Miscellaneous_style               # CSS保存フォルダー(Font Awesomeのcss保存)
+           └─ Website_of_Cafe_and_Miscellaneous_style.css    # CSSファイル（自身でコーディング）
 ```
 
 
